@@ -1,0 +1,212 @@
+{
+  "component": "container",
+  "props": {
+    "style": { "lg": { "color": "#fff" } }
+  },
+  "children": [
+    {
+      "component": "row",
+      "props": {
+        "portitions": {
+          "lg": [0.25, 0.25, 0.25, 0.25],
+          "sm": [0.5, 0.5, 0.5, 0.5],
+          "xs": [1, 1, 1, 1]
+        }
+      },
+      "children": [
+        {
+          "component": "container",
+          "props": {
+            "style": {
+              "lg": { "paddingTop": "15px", "backgroundColor": "aquamarine" }
+            }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.tap.company/collect",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+                    "style": {
+                      "lg": {
+                        "height": "120px",
+                        "width": "auto",
+                        "marginTop": "15px",
+                        "marginBottom": "-4px"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "component": "container",
+          "props": {
+            "style": {
+              "lg": { "paddingTop": "15px", "backgroundColor": "bisque" }
+            }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.tap.company/collect",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+                    "style": {
+                      "lg": {
+                        "height": "120px",
+                        "width": "auto",
+                        "marginTop": "15px",
+                        "marginBottom": "-4px"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "component": "container",
+          "props": {
+            "style": {
+              "lg": { "paddingTop": "15px", "backgroundColor": "#c3d3d3" }
+            }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.tap.company/collect",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+                    "style": {
+                      "lg": {
+                        "height": "120px",
+                        "width": "auto",
+                        "marginTop": "15px",
+                        "marginBottom": "-4px"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "component": "container",
+          "props": {
+            "style": {
+              "lg": { "paddingTop": "15px", "backgroundColor": "burlywood" }
+            }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.tap.company/collect",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+                    "style": {
+                      "lg": {
+                        "height": "120px",
+                        "width": "auto",
+                        "marginTop": "15px",
+                        "marginBottom": "-4px"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
